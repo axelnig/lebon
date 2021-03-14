@@ -1,13 +1,8 @@
 ---
-author_image: images/about/author.jpg
+author_image: images/about/axe.JPG
 author_signature: images/about/signature.png
 description: This is meta description.
 draft: false
 title: About
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I'm *ZONGO JOACHIM AXEL** , I'm 22. Born the October 24th 1999. Since my childhood i liked destroying joys to know what is inside, then few years later i understood that technology must be my passion. After i begun my primary school at KOUDOUGOU where i lived due to my father jobs reason. Arrived at BANFORA where i continued my school and i got my general school baccalaureate. after that it was difficult to choice one technology field and where i could get good education and my uncle taught to me about BIT. And still now i am happy to be at BIT Where i learned and i am learning to much.
