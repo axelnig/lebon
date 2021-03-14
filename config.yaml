@@ -54,9 +54,9 @@ menu:
     - URL: about
       name: About
       weight: 1
-    - URL: blog
-      name: Blog
-      weight: 2
+    #- URL: blog
+     # name: Blog
+      #weight: 2
     - URL: contact
       name: Contact
       weight: 4
