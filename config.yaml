@@ -2,7 +2,7 @@ baseURL: https://laxelebon.netlify.app
 languageCode: en-us
 summaryLength: '10'
 theme: kross-hugo
-title: Kross
+title: ZONGO
 params:
   address: koudougou, secteur 5 
   author: ZONGO JOACHIM AXEL
