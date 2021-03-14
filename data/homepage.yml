@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi! I’m <br> JOACHIM <br> "
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "i get some quality related to informatics domain and i'm here to help you."
   button:
     enable : true
     label : "know more"
@@ -24,7 +24,7 @@ skill:
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "Videos Montage"
       progress : "80%"
       color : "#bdecf6"
       
@@ -78,19 +78,19 @@ service:
   enable : true
   title : "Services"
   item:
-    - title : "UI Design"
+    - title : "WEBSITE"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "you want a good website to upgrade your marketing level<br> HERE is the solution <br>."
       highlighted : false
 
-    - title : "UX Design"
+    - title : "LOGO"
       icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "You want a logo i got good tools to give you a logo that will make you happy."
       highlighted : true
 
-    - title : "Interaction Design"
+    - title : "VIDEOS"
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "You are thinking to create a video .Here you will get some differente kings of video that related your personnality."
       highlighted : false
 
 # portfolio
