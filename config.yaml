@@ -8,7 +8,7 @@ params:
   author: ZONGO JOACHIM AXEL
   contact:
     enable: yes
-    form_action: '#'
+    form_action: 'axelzongo06@gmail.com'
   cookies:
     enable: yes
     expire_days: 2
